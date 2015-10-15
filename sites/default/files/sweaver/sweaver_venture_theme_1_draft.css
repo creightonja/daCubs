@@ -1,0 +1,19 @@
+#wrap #preface-wrap {
+  width: 100%px;
+  height: 400px;
+}
+
+h2 span {
+  color: #323ac9;
+  font-family: Georgia,Serif;
+}
+
+.content p {
+  color: #c41d39;
+}
+
+.region #block-block-1 {
+  background-color: transparent;
+  text-align: center;
+}
+
